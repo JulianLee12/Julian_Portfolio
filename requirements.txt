@@ -1,1 +1,4 @@
 streamlit~=1.45.0
+
+streamlit-pdf-viewer
+secure-smtplib  # sometimes needed for compatibility, but often smtplib is built-in

@@ -103,5 +103,5 @@ with tab4:
         st.success("Sent")
         send_email(a,b,c)
         st.write("I will get back to you as soon as I can.")
-        col2.title(f'{a + b+c:.2f}')
+        # col2.title(f'{a + b+c:.2f}')
 
